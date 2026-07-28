@@ -54,7 +54,7 @@ A comprehensive Data Analytics project that analyzes students' academic performa
 
 # 📂 Project Structure
 
-
+```
 Student-Performance-Analytics/
 │
 ├── Data/
@@ -87,12 +87,12 @@ Student-Performance-Analytics/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 ---
 
 
 # 🔄 Project Workflow
-
+```
 Raw Dataset
      │
      ▼
@@ -113,7 +113,7 @@ Power BI
      │
      ▼
 Business Insights
-
+```
 
 ---
 
