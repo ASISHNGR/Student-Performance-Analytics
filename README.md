@@ -174,7 +174,7 @@ The dataset includes:
 | Repository Setup | ✅ Completed |
 | Git Initialization | ✅ Completed |
 | GitHub Integration | ✅ Completed |
-| Database Design | 🔄 In Progress |
+| Database Design | ✅ Completed |
 | Data Insertion | ⏳ Pending |
 | SQL Analysis | ⏳ Pending |
 | Python Analysis | ⏳ Pending |
